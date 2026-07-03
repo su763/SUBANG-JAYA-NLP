@@ -1,0 +1,7 @@
+# Ignore the giant dataset and the sliced version
+data/yelp_academic_dataset_review.json
+data/yelp_small.csv
+
+# Ignore the virtual environment (this is crucial!)
+.venv/
+__pycache__/
